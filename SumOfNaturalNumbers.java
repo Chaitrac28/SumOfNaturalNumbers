@@ -6,4 +6,4 @@ public class SumOfNaturalNumbers {
         System.out.printf("Sum Of Natural Number from %d until %d is %d", start, end , sumOfNaturalNumbers);  
     }
 }
-#changes
+#changes is amde
